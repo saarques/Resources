@@ -37,6 +37,10 @@ https://www.kaggle.com/getting-started/149987
 
 [LightGBM Tutorial](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
 
+### How to tune Random Forest's hyperparameters.
+
+[Guide to Random Forest Hyperparameter Tuning](https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/?utm_source=blog&utm_medium=decision-tree-vs-random-forest-algorithm)
+
 ## 5. Deep Learning
 
 ### Deep Learning Cheat-Sheet. [Credits :- Morad Nejad]
