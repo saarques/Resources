@@ -21,6 +21,10 @@ I will be making updates to this file regularly, if you have any suggestions or 
 
 https://www.kaggle.com/getting-started/149987
 
+### Lasso and Ridge Regression[Credits:- Andrew Tran]
+
+[Lasso and Ridge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/151780)
+
 ## 3. EDA
 
 ### Basics of EDA [Credits:- Darshan Gandhi]
@@ -52,6 +56,10 @@ https://www.kaggle.com/getting-started/149987
 
 [Deploy Deep Learning models without DevOps knowledge](https://www.kaggle.com/getting-started/150383)
 
+### Building keras + DL REST API
+
+https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
+
 ## 6. Resume Building
 
 ## How to make a good Data Science resume! [Credits:- Kaggle]
@@ -64,3 +72,7 @@ https://www.kaggle.com/getting-started/149987
 ### Pandas Tips and tricks. [Credits :- Pranit Bhujel]
 
 [Tips and Tricks](https://www.kaggle.com/getting-started/149474)
+
+### Regex Cheat sheet[Credits:- PrestF]
+
+[Regex](https://www.kaggle.com/getting-started/151792)
