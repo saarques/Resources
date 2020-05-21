@@ -13,6 +13,10 @@ I will be making updates to this file regularly, if you have any suggestions or 
 
 ## 2. Get Started
 
+### Terms to know in ML
+
+https://www.kaggle.com/general/152167
+
 ### How to get started with Data Science! [Credits:- Darshan Gandhi]
 
 [Get started with Data Science](https://www.kaggle.com/getting-started/149294)
@@ -21,11 +25,25 @@ I will be making updates to this file regularly, if you have any suggestions or 
 
 https://www.kaggle.com/getting-started/149987
 
+### Statistics for Data Science [Credits:- PrestF]
+
+https://www.kaggle.com/getting-started/149618
+
 ### Lasso and Ridge Regression[Credits:- Andrew Tran]
 
 [Lasso and Ridge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/151780)
 
-## 3. EDA
+## 3. Data Preprocessing
+
+### Dimensionality reduction(Feature selection and Extraction)[Credits :- Superficially Bot]
+
+https://www.kaggle.com/learn-forum/152466
+
+### Dimensionality reduction using tSNE and UMAP [Credits:- Bojan Tunguz]
+
+[Dimensionality Reduction](https://www.kaggle.com/c/trends-assessment-prediction/discussion/152132)
+
+## 4. EDA
 
 ### Basics of EDA [Credits:- Darshan Gandhi]
 
@@ -35,7 +53,7 @@ https://www.kaggle.com/getting-started/149987
 
 [Choose Right Chart type](https://www.kaggle.com/getting-started/150426)
 
-## 4. Models
+## 5. Models
 
 ### How to use LightGBM? Article cum Tutorial on LightGBM
 
@@ -45,7 +63,7 @@ https://www.kaggle.com/getting-started/149987
 
 [Guide to Random Forest Hyperparameter Tuning](https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/?utm_source=blog&utm_medium=decision-tree-vs-random-forest-algorithm)
 
-## 5. Deep Learning
+## 6. Deep Learning
 
 ### Deep Learning Cheat-Sheet. [Credits :- Morad Nejad]
 *Since it is the first part of the cheat-sheet, you can find other parts on Morad's profile or in the comments of this very same part.*
@@ -60,14 +78,14 @@ https://www.kaggle.com/getting-started/149987
 
 https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
 
-## 6. Resume Building
+## 7. Resume Building
 
 ## How to make a good Data Science resume! [Credits:- Kaggle]
 
 1.	https://www.youtube.com/watch?v=xrhPjE7wHas
 2.	https://www.youtube.com/watch?v=kBR0EtGOkzc
 
-## 7. Others
+## 8. Others
 
 ### Pandas Tips and tricks. [Credits :- Pranit Bhujel]
 
