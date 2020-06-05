@@ -94,3 +94,12 @@ https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
 ### Regex Cheat sheet[Credits:- PrestF]
 
 [Regex](https://www.kaggle.com/getting-started/151792)
+
+
+### Useful Resources on ML and DL[Credits:- Takaya Hirano]
+
+https://www.kaggle.com/getting-started/152863
+
+### Losses and Activation functions
+
+https://gombru.github.io/2018/05/23/cross_entropy_loss/
