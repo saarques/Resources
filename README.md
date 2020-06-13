@@ -49,6 +49,10 @@ https://www.kaggle.com/learn-forum/152466
 
 [EDA Basics](https://www.kaggle.com/getting-started/148942)
 
+### ECDF [Credits:- Sarques]
+
+[ECDF](https://www.kaggle.com/getting-started/157948)
+
 ### How to choose the Right Chart type [Credits:- Prashant Banerjee]
 
 [Choose Right Chart type](https://www.kaggle.com/getting-started/150426)
