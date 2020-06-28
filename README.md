@@ -107,3 +107,7 @@ https://www.kaggle.com/getting-started/152863
 ### Losses and Activation functions
 
 https://gombru.github.io/2018/05/23/cross_entropy_loss/
+
+### Deep Learning Courses List
+
+https://t.co/zI3Pznmw2X?amp=1
