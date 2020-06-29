@@ -111,3 +111,7 @@ https://gombru.github.io/2018/05/23/cross_entropy_loss/
 ### Deep Learning Courses List
 
 https://t.co/zI3Pznmw2X?amp=1
+
+### Becoming a data scientist on your own
+
+https://www.kaggle.com/getting-started/44915
