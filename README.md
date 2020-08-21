@@ -91,6 +91,9 @@ https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
 
 ## 8. Others
 
+### Research Paper notes
+[Research Paper Notes](https://ivlabs.github.io/ResearchPaperNotes/)
+
 ### Pandas Tips and tricks. [Credits :- Pranit Bhujel]
 
 [Tips and Tricks](https://www.kaggle.com/getting-started/149474)
