@@ -43,7 +43,14 @@ https://www.kaggle.com/learn-forum/152466
 
 [Dimensionality Reduction](https://www.kaggle.com/c/trends-assessment-prediction/discussion/152132)
 
+### Types of Categorical Encodings
+[Encodings](https://pbpython.com/categorical-encoding.html)
+
 ## 4. EDA
+
+### Different type of Matplotlib plots
+
+[Matplotlib plots](https://matplotlib.org/gallery/index.html)
 
 ### Basics of EDA [Credits:- Darshan Gandhi]
 
