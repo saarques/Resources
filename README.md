@@ -43,6 +43,10 @@ https://www.kaggle.com/learn-forum/152466
 
 [Dimensionality Reduction](https://www.kaggle.com/c/trends-assessment-prediction/discussion/152132)
 
+### Principal Component Analysis
+
+[PCA](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+
 ### Types of Categorical Encodings
 [Encodings](https://pbpython.com/categorical-encoding.html)
 
