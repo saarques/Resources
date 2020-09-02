@@ -129,3 +129,7 @@ https://t.co/zI3Pznmw2X?amp=1
 ### Becoming a data scientist on your own
 
 https://www.kaggle.com/getting-started/44915
+
+### Applications of Pytorch with almost all the projects in a list
+
+[Pytorch Tutorials with Projects](https://github.com/ritchieng/the-incredible-pytorch)
